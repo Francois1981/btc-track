@@ -1,1 +1,1 @@
-# btc-track
+mijn-crypto-tracker
